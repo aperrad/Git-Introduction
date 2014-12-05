@@ -17,8 +17,10 @@ public class Arthur {
         
         System.out.println("Hello world");
         Lapin lap = new Lapin("Bob", 4);
+        Lapin lap2= new Lapin("Bob2", 4);
         while(i <= 10){
             lap.crier();
+            lap2.crier();
             i++;
         }
     }
