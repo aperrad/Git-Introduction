@@ -23,6 +23,7 @@ public class Arthur {
             lap2.crier();
             i++;
         }
+        System.out.println("Bonjour Arthur !");
     }
 
 }
